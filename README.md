@@ -1,3 +1,3 @@
-# AI Pong using PyTorch, Q-Learning, and OpenAI Gym
+# RL Pong using PyTorch, Q-Learning, and OpenAI Gym
 
-[Tutorial](https://youtu.be/vaVBd9H2eHE?si=2ZJsKvLJFUNNXZyp)
+Learning exercise, going through [this tutorial](https://youtu.be/vaVBd9H2eHE?si=2ZJsKvLJFUNNXZyp)
